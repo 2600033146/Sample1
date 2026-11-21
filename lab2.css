@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial;
+    background: #eee;
+}
+header, footer {
+    background: darkslateblue;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+nav a { color: white; }
+section {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+}
+article, aside {
+    background: lavender;
+    padding: 10px;
+    margin: 5px;
+}
+input, select, textarea {
+    margin: 5px;
+}

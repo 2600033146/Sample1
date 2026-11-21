@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+     background-color: rgb(44, 44, 80);
+     align-items: center;
+    height: 125px;
+    padding: 0 20px;
+    border-bottom:2px solid ;
+color: aliceblue;}
+    .brand-section{
+        display:flex;
+        align-items: center;
+        gap: 15px;
+       
+    }
+    .logo{
+        color: blue;
+        font-size: 80px;
+        font-size: bold;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        .brand-name{
+            color: aquamarine;
+            font-size: 55px;
+            font-family: sans-serif;
+        }
+        .brand-name{
+            color: cadetblue;
+            font-size: 55px;
+            font-family:  sans-serif;
+        }
+        .title-section{
+            margin-left: 40px;
+
+            }
+            .title-section h2{
+                color: aliceblue;
+                font-size: 40px;
+            
+            }
+            .title-section p{
+                color: aliceblue;
+                font-size: 22px;
+            }
+            .right-section{
+                display: flex;
+                align-items: center;
+                margin-left: auto;
+                gap: 30px;
+
+            }
+            .status{
+                color: rgb(46, 235, 46);
+                font-size: 20px;
+            }
+            .status-dot{
+                display: inline-block;
+                background-color: greenyellow;
+                width: 15px;
+                height: 15px;
+                border-radius: 50%;
+            }
+            .dispatch-btn{
+                background-color: blue;
+                color: aliceblue;
+                font-size: 20px;
+                padding: 15px 20px;
+                border: none;
+                border-radius: 15px;
+            }
+        
+
+        
+        
+    
+    
+    
+    
+

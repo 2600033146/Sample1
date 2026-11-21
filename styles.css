@@ -1,0 +1,17 @@
+body{
+    background-color:green;
+}
+
+
+label{
+    color:orange;
+}
+table{
+    color: aqua;
+}
+th{
+    color: yellow;
+}
+td{
+    font-size: small;
+}
