@@ -72,6 +72,8 @@ color: aliceblue;}
             }
             .page{
                 padding: 35px 5%;
+                display: flex;
+                
             }
             .page p{
                 color:skyblue ;

@@ -1,0 +1,9 @@
+aside { position: fixed;
+     right: 40px;
+      top: 120px; 
+      width: 280px;
+       height: 160px; 
+       background-color: lightpink; 
+       border: 3px solid red;
+        text-align: center;
+     } 
